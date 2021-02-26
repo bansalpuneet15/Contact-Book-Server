@@ -1,0 +1,4 @@
+{
+    "jwtSecret": "secret",
+    "mongoURL" : "mongodb://localhost:27017/contactDB"
+}
